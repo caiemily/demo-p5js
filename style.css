@@ -12,7 +12,7 @@ html, body {
   }
 
   #score-container {
-    background-color: aquamarine;
+    background-color: #D81B60;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -40,7 +40,7 @@ html, body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: aqua;
+    background-color: #1E88E5;
     grid-column: 2/3;
     grid-row: 2/3;
   }
@@ -107,17 +107,17 @@ html, body {
   }
 
   .active-left {
-    border-right: 15px solid #c1f80a;
+    border-right: 15px solid #004D40;
   }
 
   .active-up {
-    border-bottom: 15px solid #c1f80a;
+    border-bottom: 15px solid #004D40;
   }
 
   .active-right {
-    border-left: 15px solid #c1f80a;
+    border-left: 15px solid #004D40;
   }
 
   .active-down {
-    border-top: 15px solid #c1f80a;
+    border-top: 15px solid #004D40;
   }
